@@ -1,4 +1,4 @@
-✅ 1. Technical Explanation (For Engineers, PMs, Data Scientists)
+#✅ 1. Technical Explanation (For Engineers, PMs, Data Scientists)
 
 The AI Ethics & Bias Review Framework is a web-based tool designed to assess machine learning models for bias, fairness, and ethical compliance throughout the ML lifecycle. It allows users to upload model metadata, evaluation metrics, or dataset summaries, and runs these through a customizable audit process based on fairness metrics like Demographic Parity, Equal Opportunity, and Disparate Impact.
 
@@ -14,7 +14,7 @@ GDPR & EU AI Act compliance guidance, allowing alignment with legal regulations 
 
 This framework is designed to be modular and extendable, so organizations can plug it into their MLOps pipeline or use it as a standalone governance tool for model reviews.
 
-✅ 2. Non-Technical Explanation (For Business Leaders, Stakeholders, Clients)
+#✅ 2. Non-Technical Explanation (For Business Leaders, Stakeholders, Clients)
 
 This product is a tool that helps companies make sure their AI models are fair, ethical, and legal. It checks whether an AI system is making decisions that might be unfair to certain groups of people — for example, by favoring one gender or race over another — and helps you spot and fix those problems.
 
